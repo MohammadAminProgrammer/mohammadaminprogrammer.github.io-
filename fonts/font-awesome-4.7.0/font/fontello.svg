@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2023 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="aparat" unicode="&#xe800;" d="M500 784c-386 0-580-467-307-740 124-124 311-161 473-94 162 67 267 225 267 400 0 240-194 434-433 434z m-245-217c21 109 162 138 224 46 61-91-18-211-126-191-67 13-111 78-98 145z m180-374c-21-108-163-137-224-46-62 92 17 212 126 191 67-13 111-78 98-145z m52 100c-48 9-61 72-20 100 40 27 94-8 85-56-6-30-35-50-65-44z m258-160c-20-108-162-137-224-46-61 92 18 212 126 191 67-13 111-78 98-145z m-81 229c-109 21-138 163-46 225 91 61 211-18 190-126-12-67-77-111-144-99z m-98-481l95-26c82-22 167 27 189 110l27 100a474 474 0 0 0-311-184z m319 819l-99 26a474 474 0 0 0 182-317l27 102c21 83-28 167-110 189z m-857-425l-23-85c-22-83 28-168 110-190l88-23a474 474 0 0 0-175 298z m404 546l-92 24c-83 22-168-27-190-110l-23-87a474 474 0 0 0 305 173z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
